@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-your text
+I love India:)
 Use the left arrow to go back!
